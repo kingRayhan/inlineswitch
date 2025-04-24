@@ -1,4 +1,4 @@
-# inlineswitch
+# Inline Switch
 
 A flexible inline switch statement with pattern matching for TypeScript/JavaScript.
 
