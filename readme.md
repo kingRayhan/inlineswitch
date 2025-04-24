@@ -2,6 +2,8 @@
 
 A flexible inline switch statement with pattern matching for TypeScript/JavaScript.
 
+> Inspired from PHP 8 [Match Function](https://www.php.net/manual/en/control-structures.match.php) 
+
 ## Installation
 
 ```bash
